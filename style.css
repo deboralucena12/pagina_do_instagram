@@ -47,7 +47,8 @@ body {
     flex-direction: column;
     background-color: #fff;
     width: 100%;
-    padding: 1.3rem 0;
+    padding: 1rem 0;
+    margin-top: 10px;
     border: 1px solid lightgray;
 }
 .group:nth-child(1) {
@@ -89,14 +90,14 @@ body {
     align-items: center;
     justify-content: center;
     width: 100%;
-    padding: 1.3rem 0;
+    padding: 0.3rem 0;
 }
 .download {
     display: flex;
     width: 100%;
     justify-content: space-evenly;
     align-items: center;
-    padding: 1rem;
+    padding: 0.3rem;
 }
 .app-download {
     height: 3rem;
